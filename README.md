@@ -57,6 +57,9 @@
     <abbr style="text-decoration: none;" title="Ubuntu">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="40" alt='Ubuntu icon' />
     </abbr>
+    <abbr style="text-decoration: none" title="Yarn">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="40" alt='Yarn icon' />  
+    </abbr>
 </div>
 
 #
