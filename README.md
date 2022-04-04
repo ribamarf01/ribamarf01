@@ -51,9 +51,6 @@
     <abbr style="text-decoration: none;" title="Git">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git icon" />
     </abbr>
-    <abbr style="text-decoration: none;" title="GitHub">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub icon" />
-    </abbr>
     <abbr style="text-decoration: none;" title="Ubuntu">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="40" alt='Ubuntu icon' />
     </abbr>
