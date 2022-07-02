@@ -1,8 +1,8 @@
 # 🌎 Hello world 🌎
 
 - 🔭 I’m currently looking for work
-- 🌱 I’m currently learning <b>Vue</b> and <b>NuxtJS</b>
-- 👯 I’m looking to collaborate on Javascript projects
+- 🌱 I’m currently learning <b>React</b> and <b>NextJS</b>
+- 👯 I’m looking to my first Internship/ Job opportunity
 - 📩 Contact: ribamar.f01@gmail.com
 
 # 
@@ -22,11 +22,11 @@
     <abbr style="text-decoration: none;" title="TypeScript">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript icon" />
     </abbr>
-    <abbr style="text-decoration: none;" title="VueJS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="40" alt="VueJS icon" />
+    <abbr style="text-decoration: none;" title="React">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React icon" />
     </abbr>
-    <abbr style="text-decoration: none;" title="NuxtJS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" width="40" alt="NuxtJS icon" />
+    <abbr style="text-decoration: none;" title="NextJS">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="NextJS icon" />
     </abbr>
     <abbr style="text-decoration: none;" title="TailwindCSS">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" alt="TailwindCSS icon" />
