@@ -5,6 +5,7 @@
 - 👯 I’m looking to my first Internship/ Job opportunity
 - 😎 Check my portfolio at: https://ribamarf01.dev
 - 📩 Contact: ribamar.f01@gmail.com
+- 🔗 My other links: https://links.ribamarf01.dev
 
 # 
 
