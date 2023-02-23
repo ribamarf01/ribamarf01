@@ -1,9 +1,7 @@
 # 🌎 Hello world 🌎
 
-- 🔭 I’m currently looking for work
 - 🌱 I’m currently learning <b>React</b> and <b>NextJS</b>
-- 👯 I’m looking to my first Internship/ Job opportunity
-- 😎 Check my portfolio at: https://ribamarf01.dev
+- - 😎 Check my portfolio at: https://ribamarf01.dev
 - 📩 Contact: ribamar.f01@gmail.com
 - 🔗 My other links: https://links.ribamarf01.dev
 
